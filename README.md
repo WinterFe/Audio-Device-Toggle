@@ -15,8 +15,7 @@ Toggle between 2 different default audio devices (Input/Output) with the click o
 View the [Releases](https://github.com/WinterFe/Audio-Device-Toggle/releases) page to download ZIP.
 - Unzip program in whatever folder you want.
 - Open `config.json` and edit it to your system. Example config below
-- Run the install file
-- You can now open the `VRCAudioToggle` shortcut and the program will work :)
+- Open the `VRAudioToggle` shortcut in the folder, and it should swap your default audio devices.
 
 
 ```JSON

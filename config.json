@@ -1,0 +1,10 @@
+    {
+        "VR": {
+            "Output": "VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)",
+            "Input": "VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)"
+        },
+        "Desktop": {
+            "Output": "System (TC-Helicon GoXLR)",
+            "Input": "Chat Mic (TC-Helicon GoXLR)"
+        }
+    }
